@@ -1,0 +1,6 @@
+//Contribuição de João Fonseca Junior
+classe Programacao {
+     simples() {  
+        escreva("L");
+     }
+}
